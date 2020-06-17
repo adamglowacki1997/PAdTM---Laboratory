@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='zut6-padm-lab-6-7'

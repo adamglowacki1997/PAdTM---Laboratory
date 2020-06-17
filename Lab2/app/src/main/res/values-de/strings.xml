@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="default_message">" Willkommen bei Lab2!"</string>
+    <string name="button_text">" Zur Nebenaktivität gehen!"</string>
+    <string name="message1">" Dies ist Nachricht 1."</string>
+    <string name="message2">" Dies ist Nachricht 2. Es ist nach der ersten."</string>
+    <string name="message3">" Dies ist Nachricht 3. Es ist in der Mitte."</string>
+    <string name="message4">" Nachricht 4 - vorletzte"</string>
+    <string name="message5">" Nachricht 5 - die letzte :C"</string>
+    <string name="title_activity_side">SideActivity</string>
+</resources>

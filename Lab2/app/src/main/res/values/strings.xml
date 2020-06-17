@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title_activity_side">SideActivity</string>
+    <string name="default_message">Welcome to Lab2!</string>
+    <string name="button_text">Go to side activity!</string>
+    <string name="message1">This is message 1.</string>
+    <string name="message2">This is message 2. It is after the first one.</string>
+    <string name="message3">This is message 3. It is in the middle.</string>
+    <string name="message4">Message 4 - penultimate</string>
+    <string name="message5">Message 5 - the last one :C</string>
+</resources>
